@@ -1,0 +1,7 @@
+skillbridge.db
+skillbridge.db-shm
+skillbridge.db-wal
+.venv
+__pycache__/
+*.pyc
+.pytest_cache/
